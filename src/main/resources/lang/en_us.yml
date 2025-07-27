@@ -1,0 +1,15 @@
+# Command keywords
+commands:
+  SIT: ["sit", "down", "stay put"]
+  COME: ["come", "here", "follow me"]
+  HERD: ["herd", "round up", "gather"]
+  HUNT: ["hunt", "get it"]
+  ATTACK: ["attack", "fight", "bite", "get 'em", "get em"]
+  GUARD: ["guard", "protect", "watch"]
+
+# Player-facing messages
+messages:
+  praise_success: "You praised %dog_name%!"
+  command_unrecognized: "Your dog looks confused."
+  error_no_nearby_dog: "No tamed dog nearby."
+  error_not_trained: "%dog_name% doesn’t understand that command yet."

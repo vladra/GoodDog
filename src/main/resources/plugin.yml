@@ -1,0 +1,4 @@
+name: GoodDog
+version: '1.0-SNAPSHOT'
+main: com.vladra.goodDog.GoodDog
+api-version: '1.21'
