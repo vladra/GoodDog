@@ -2,8 +2,6 @@ This project is intended to overhaul the Minecraft dog AI by adding features suc
 
 This uses the Q-Learning reinforcement algorithm. 
 
-I do not advise using this plugin in its current state. 
-
 Features already implemented:
 - Q-Learning framework
 - Chat, combat, and wolf taming listeners
